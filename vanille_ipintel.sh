@@ -7,7 +7,7 @@
 # Optional: export VPN_API_PROVIDER="vpnapi" and VPN_API_KEY="your_key"
 #   Supported providers (optional): vpnapi (vpnapi.io), ipqs (ipqualityscore)
 #===========================================================
-
+# probado por mi novio unai sin su consentimiento 🫦
 LOG_DIR="$HOME/.config/nodespectre/logs"
 mkdir -p "$LOG_DIR"
 LOG_FILE="$LOG_DIR/iptrace_$(date +%Y-%m-%d).log"
